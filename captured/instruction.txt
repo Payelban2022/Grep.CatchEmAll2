@@ -1,1 +1,10 @@
 put pokemon in this directory
+Filescan_00.1 we found 4 pokemons - beedrill, blastoise,bulbasaur,butterfree.
+Filescan_00.2 we found 3 pokemons -
+charizard, charmander,charmeleon
+Filescan_00.4 we found 4 pokemons - psyduck,squirtle,venusaur,wartortle
+Filescan_00.3 we found 4 pokemons - ivysaur, jigglypuff, meowth, pikachu
+
+Part2 :
+there are 15 pokemons
+Charizard,pikachu,beedrill.
